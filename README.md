@@ -12,7 +12,7 @@
 **2)Votes Analysis:**
 
 ***(i)  Identify the restaurants with the highest and
- lowest number of votes.
+ lowest number of votes.***
 
  ***(ii)Analyze if there is a correlation between the
  number of votes and the rating of a
@@ -22,7 +22,7 @@
 
 ***(i) Analyze if there is a relationship between the
  price range and the availability of online
- delivery and table booking.
+ delivery and table booking.***
  
  ***(ii)Determine if higher-priced restaurants are
  more likely to offer these services.***
